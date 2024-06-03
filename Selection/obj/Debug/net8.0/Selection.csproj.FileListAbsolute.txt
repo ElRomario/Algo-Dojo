@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Algorythm refresh\Selection\bin\Debug\net8.0\Selection.exe
+C:\Users\User\source\repos\Algorythm refresh\Selection\bin\Debug\net8.0\Selection.deps.json
+C:\Users\User\source\repos\Algorythm refresh\Selection\bin\Debug\net8.0\Selection.runtimeconfig.json
+C:\Users\User\source\repos\Algorythm refresh\Selection\bin\Debug\net8.0\Selection.dll
+C:\Users\User\source\repos\Algorythm refresh\Selection\bin\Debug\net8.0\Selection.pdb
+C:\Users\User\source\repos\Algorythm refresh\Selection\obj\Debug\net8.0\Selection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Algorythm refresh\Selection\obj\Debug\net8.0\Selection.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Algorythm refresh\Selection\obj\Debug\net8.0\Selection.AssemblyInfo.cs
+C:\Users\User\source\repos\Algorythm refresh\Selection\obj\Debug\net8.0\Selection.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Algorythm refresh\Selection\obj\Debug\net8.0\Selection.dll
+C:\Users\User\source\repos\Algorythm refresh\Selection\obj\Debug\net8.0\refint\Selection.dll
+C:\Users\User\source\repos\Algorythm refresh\Selection\obj\Debug\net8.0\Selection.pdb
+C:\Users\User\source\repos\Algorythm refresh\Selection\obj\Debug\net8.0\Selection.genruntimeconfig.cache
+C:\Users\User\source\repos\Algorythm refresh\Selection\obj\Debug\net8.0\ref\Selection.dll

@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Algorythm refresh\ConsoleApp1\obj\Debug\net8.0\Exchange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Algorythm refresh\ConsoleApp1\obj\Debug\net8.0\Exchange.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Algorythm refresh\ConsoleApp1\obj\Debug\net8.0\Exchange.AssemblyInfo.cs
+C:\Users\User\source\repos\Algorythm refresh\ConsoleApp1\obj\Debug\net8.0\Exchange.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Algorythm refresh\ConsoleApp1\bin\Debug\net8.0\Exchange.exe
+C:\Users\User\source\repos\Algorythm refresh\ConsoleApp1\bin\Debug\net8.0\Exchange.deps.json
+C:\Users\User\source\repos\Algorythm refresh\ConsoleApp1\bin\Debug\net8.0\Exchange.runtimeconfig.json
+C:\Users\User\source\repos\Algorythm refresh\ConsoleApp1\bin\Debug\net8.0\Exchange.dll
+C:\Users\User\source\repos\Algorythm refresh\ConsoleApp1\bin\Debug\net8.0\Exchange.pdb
+C:\Users\User\source\repos\Algorythm refresh\ConsoleApp1\obj\Debug\net8.0\Exchange.dll
+C:\Users\User\source\repos\Algorythm refresh\ConsoleApp1\obj\Debug\net8.0\refint\Exchange.dll
+C:\Users\User\source\repos\Algorythm refresh\ConsoleApp1\obj\Debug\net8.0\Exchange.pdb
+C:\Users\User\source\repos\Algorythm refresh\ConsoleApp1\obj\Debug\net8.0\Exchange.genruntimeconfig.cache
+C:\Users\User\source\repos\Algorythm refresh\ConsoleApp1\obj\Debug\net8.0\ref\Exchange.dll

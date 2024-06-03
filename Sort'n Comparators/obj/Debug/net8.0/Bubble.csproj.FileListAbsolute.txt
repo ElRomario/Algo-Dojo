@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Algorythm refresh\Sort'n Comparators\bin\Debug\net8.0\Bubble.exe
+C:\Users\User\source\repos\Algorythm refresh\Sort'n Comparators\bin\Debug\net8.0\Bubble.deps.json
+C:\Users\User\source\repos\Algorythm refresh\Sort'n Comparators\bin\Debug\net8.0\Bubble.runtimeconfig.json
+C:\Users\User\source\repos\Algorythm refresh\Sort'n Comparators\bin\Debug\net8.0\Bubble.dll
+C:\Users\User\source\repos\Algorythm refresh\Sort'n Comparators\bin\Debug\net8.0\Bubble.pdb
+C:\Users\User\source\repos\Algorythm refresh\Sort'n Comparators\obj\Debug\net8.0\Bubble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Algorythm refresh\Sort'n Comparators\obj\Debug\net8.0\Bubble.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Algorythm refresh\Sort'n Comparators\obj\Debug\net8.0\Bubble.AssemblyInfo.cs
+C:\Users\User\source\repos\Algorythm refresh\Sort'n Comparators\obj\Debug\net8.0\Bubble.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Algorythm refresh\Sort'n Comparators\obj\Debug\net8.0\Bubble.dll
+C:\Users\User\source\repos\Algorythm refresh\Sort'n Comparators\obj\Debug\net8.0\refint\Bubble.dll
+C:\Users\User\source\repos\Algorythm refresh\Sort'n Comparators\obj\Debug\net8.0\Bubble.pdb
+C:\Users\User\source\repos\Algorythm refresh\Sort'n Comparators\obj\Debug\net8.0\Bubble.genruntimeconfig.cache
+C:\Users\User\source\repos\Algorythm refresh\Sort'n Comparators\obj\Debug\net8.0\ref\Bubble.dll
